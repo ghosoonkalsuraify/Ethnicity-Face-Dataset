@@ -23,7 +23,7 @@ All images were:
 
 Available on Kaggle:
 
-👉 [[PUT YOUR KAGGLE LINK HERE]](https://doi.org/10.34740/kaggle/dsv/16108718)
+https://www.kaggle.com/datasets/alghosoonkar/ethnicity-face-dataset
 
 ## 🧠 Method
 
@@ -38,7 +38,9 @@ Available on Kaggle:
 
 ## 📸 Sample Images
 
-![sample](sample_images/african_1.jpg)
+<img width="231" height="234" alt="image" src="https://github.com/user-attachments/assets/aad193b6-43ce-4129-8cce-14cef55d846f" />
+<img width="161" height="173" alt="image" src="https://github.com/user-attachments/assets/09e9053f-6a99-4093-a9e6-8a1c60420e46" />
+
 
 ## ⚠️ Usage
 

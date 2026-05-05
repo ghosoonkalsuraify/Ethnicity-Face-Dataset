@@ -38,8 +38,13 @@ https://www.kaggle.com/datasets/alghosoonkar/ethnicity-face-dataset
 
 ## 📸 Sample Images
 
-<img width="231" height="234" alt="image" src="https://github.com/user-attachments/assets/aad193b6-43ce-4129-8cce-14cef55d846f" />
-<img width="161" height="173" alt="image" src="https://github.com/user-attachments/assets/09e9053f-6a99-4093-a9e6-8a1c60420e46" />
+<img width="142" height="155" alt="image" src="https://github.com/user-attachments/assets/430c0fe7-fca0-430a-9639-9f6b619639fc" />
+
+<img width="152" height="145" alt="image" src="https://github.com/user-attachments/assets/bf19c180-0431-4462-8106-9245f9f93ebb" />
+
+<img width="135" height="143" alt="image" src="https://github.com/user-attachments/assets/3477c609-7bbf-454c-ba34-096bd21fc9ec" />
+
+
 
 
 ## ⚠️ Usage

@@ -1,48 +1,43 @@
-# Ethnicity-Face-Dataset
-Augmented multi-ethnic facial image dataset (African, Asian, Latino) prepared for ethnicity classification research.
-# Ethnicity-Face-Dataset
+# Ethnicity Classification using CNN + Capsule Network
 
-This repository contains an **augmented multi-ethnic facial image dataset** prepared for research on ethnicity classification using deep learning.  
-The dataset was curated and augmented to ensure balanced representation and enhanced diversity for robust model training.
+## 📄 Paper
 
-## Dataset Description
+This repository contains the official dataset and implementation of the paper:
 
-The dataset is organized into **three folders**, each representing a specific ethnic group:
+**Race Classification by Facial Features Using CNN and Capsule Networks**
 
-- **African/** → Contains 3,500 images of African individuals.
-- **Asian/** → Contains 3,500 images of Asian individuals.
-- **Latino/** → Contains 3,500 images of Latino individuals.
+## 📊 Dataset
 
-Each image was obtained from publicly available sources and processed to meet the requirements of deep learning pipelines for facial recognition and ethnicity classification tasks.
+* 3 ethnic groups: African, Asian, Latino
+* Balanced dataset
+* Augmented to 3500 images
+* Image size: 128x128
 
-## Augmentation Process
+📥 Download dataset:
+(حطي الرابط مالك)
 
-To expand and diversify the dataset, the following augmentation techniques were applied:
-- Rotation (±20 degrees)
-- Scaling (zoom in/out)
-- Brightness and contrast adjustment
-- Horizontal flipping
-- Random cropping (preserving facial integrity)
+## 🧠 Method
 
-## Image Specifications
-- Format: `.jpg`
-- Resolution: **128 × 128 pixels**
-- Frontal face images with no occlusions
+* CNN for face detection and cropping
+* Capsule Network for classification
+* Preserves spatial relationships between facial features
 
-## Usage
+## 📈 Results
 
-Researchers are free to use this dataset for academic and non-commercial purposes, particularly for:
-- Ethnicity classification
-- Facial recognition experiments
-- Computer vision and deep learning model evaluation
+* African: 98%
+* Asian: 97%
+* Latino: 97%
+* Macro F1-score: 0.97
 
-If you use this dataset in your work, please cite the related research paper:
+## ⚙️ Implementation
 
-**Citation:**
-> [Author Names]. (2025). *Race Classification by Facial Features Using Convolutional Neural Networks and Capsule Networks: A Study on a Multi-Ethnic Dataset*. [Journal Name, Volume(Issue), Pages]. DOI: [DOI link if available]
+Coming soon (PyTorch code will be uploaded)
 
-## License
+## 📌 Citation
 
-This dataset is released for **research and educational purposes only**. Redistribution or commercial use is prohibited without permission from the authors.
+If you use this dataset or method, please cite:  
+M. H. Bashaa, G. K. Munahy, W. M. Hadi, Z. K. Al-Sendi, and F. Tuma, "Race Classification by Facial Features Using Convolutional Neural Networks and Capsule Networks: A Study on a Multi-Ethnic Dataset," Ingénierie des Systèmes d'Information, vol. 30, no. 12, 2025.
 
----
+
+
+(حطي citation مال بحثك)

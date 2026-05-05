@@ -13,8 +13,7 @@ This repository contains the official dataset and implementation of the paper:
 * Augmented to 3500 images
 * Image size: 128x128
 
-📥 Download dataset:
-(حطي الرابط مالك)
+📥 Download dataset: https://github.com/ghosoonkalsuraify/Ethnicity-Face-Dataset
 
 ## 🧠 Method
 
@@ -40,4 +39,4 @@ M. H. Bashaa, G. K. Munahy, W. M. Hadi, Z. K. Al-Sendi, and F. Tuma, "Race Class
 
 
 
-(حطي citation مال بحثك)
+( 
